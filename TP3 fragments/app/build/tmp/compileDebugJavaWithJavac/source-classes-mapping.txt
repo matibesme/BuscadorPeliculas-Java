@@ -1,0 +1,18 @@
+com/example/tpfragments/MainActivity.java
+ com.example.tpfragments.MainActivity
+com/example/tpfragments/Validaciones/Dato.java
+ com.example.tpfragments.Validaciones.Dato
+com/example/tpfragments/MenuFragment.java
+ com.example.tpfragments.MenuFragment
+ com.example.tpfragments.MenuFragment$1
+ com.example.tpfragments.MenuFragment$2
+ com.example.tpfragments.MenuFragment$3
+com/example/tpfragments/AcercaDeFragment.java
+ com.example.tpfragments.AcercaDeFragment
+com/example/tpfragments/BuildConfig.java
+ com.example.tpfragments.BuildConfig
+com/example/tpfragments/EnviadoFragment.java
+ com.example.tpfragments.EnviadoFragment
+ com.example.tpfragments.EnviadoFragment$1
+com/example/tpfragments/ReceptorFragment.java
+ com.example.tpfragments.ReceptorFragment
